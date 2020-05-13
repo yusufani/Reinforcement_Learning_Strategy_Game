@@ -46,14 +46,14 @@ def test():
             # print(current_state)
             for i, agent in enumerate(agents):
                 if not dones[i]:
-                    if np.random.random() > 0.1:
-                        print(agent.index, "-> ", agent.get_qs(current_states[i]))
+                    if np.random.random() > 0.1:  # Sometimes test model can stuck in state
+                        # print(agent.index, "-> ", agent.get_qs(current_states[i]))
                         actions.append(np.argmax(agent.get_qs(current_states[i])))
                     else:
                         actions.append(np.random.randint(0, env.ACTION_SPACE_SIZE))
                 else:
                     actions.append(-1)
-            print(actions)
+            # print(actions)
             # print(all_acts)
 
             new_states, rewards, dones, RENDER_INFOS = env.step(actions, dones)
