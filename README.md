@@ -1,13 +1,12 @@
-# Reinforcement_Learning_Strategy_Game
+# Kullanım
+DQN_test.py dosyasını çalıştırarak Modül-4 çalıştırılabilir. Model pathlerini vermeyi unutmayın!. 
 
-YUSUF ANI
+Envoriment_FOR_Q_LEARNING.py çalıştırılarak Modül-1 çalıştırılabilir.
 
 
-# 2020
+# Reinforcement Learning Tabanlı Strateji Oyunu
 
-Reinforcement Learning Tabanlı Strateji Oyunu
-
-Yapay Zeka Projesi
+Yapay Zeka Dersi Projesi
 
 # İçindekiler
 
