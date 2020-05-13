@@ -1,13 +1,7 @@
 # Reinforcement_Learning_Strategy_Game
-­ ![](RackMultipart20200513-4-kv8ptw_html_df8ff025a4b6288d.jpg)
 
-![](RackMultipart20200513-4-kv8ptw_html_152c09b0d4a39182.gif) ![](RackMultipart20200513-4-kv8ptw_html_931ffbaec91ef5e6.gif) ![](RackMultipart20200513-4-kv8ptw_html_b1dc677ee186e032.gif) ![](RackMultipart20200513-4-kv8ptw_html_ea4b5e85357909b4.gif) ![](RackMultipart20200513-4-kv8ptw_html_ec6588e7addbbb43.gif) ![](RackMultipart20200513-4-kv8ptw_html_c088f896043caf08.gif)
+YUSUF ANI
 
-YUSUF ANI - 16011033
-
-AHMET AYDIN - 16011003
-
-![](RackMultipart20200513-4-kv8ptw_html_c4c39d521d2a3e12.png) ![](RackMultipart20200513-4-kv8ptw_html_29e041fe8f52bac4.png) ![](RackMultipart20200513-4-kv8ptw_html_98c7195dee75abf0.png) ![](RackMultipart20200513-4-kv8ptw_html_bdf5f1d229d2c2a0.png) ![](RackMultipart20200513-4-kv8ptw_html_d7a70452a0f0fc12.png) ![](RackMultipart20200513-4-kv8ptw_html_1fda258d4fc2e0f2.png) ![](RackMultipart20200513-4-kv8ptw_html_975c735ec6c44964.png) ![](RackMultipart20200513-4-kv8ptw_html_ae745d8c2246f20f.png) ![](RackMultipart20200513-4-kv8ptw_html_68a3fd65b5e8f979.png) ![](RackMultipart20200513-4-kv8ptw_html_8cdee660bb9bebac.png) ![](RackMultipart20200513-4-kv8ptw_html_36f018cf267be70b.png) ![](RackMultipart20200513-4-kv8ptw_html_83286182f8cdecf1.png) ![](RackMultipart20200513-4-kv8ptw_html_a1ca8256e1192cfb.png)
 
 # 2020
 
