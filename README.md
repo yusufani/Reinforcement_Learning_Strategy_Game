@@ -7,9 +7,7 @@ YUSUF ANI
 
 Reinforcement Learning Tabanlı Strateji Oyunu
 
-Projesi
-
-# Yapay Zeka
+Yapay Zeka Projesi
 
 # İçindekiler
 
