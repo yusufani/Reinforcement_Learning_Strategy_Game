@@ -1,0 +1,7 @@
+numpy
+pygame
+tqdm
+Keras
+Tensorboard
+cv2
+PIL
