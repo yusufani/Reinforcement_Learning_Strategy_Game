@@ -1,5 +1,6 @@
 # Kullanım
-DQN_test.py dosyasını çalıştırarak Modül-4 çalıştırılabilir. Model pathlerini vermeyi unutmayın!. 
+
+DQN_test.py dosyasını çalıştırarak Modül-4 çalıştırılabilir. Model pathlerini vermeyi unutmayın!. Çalışma hızı ve elle ağaçlık oluşturma paremetrelerini kod içinden düzenleyebilirsiniz.
 
 Envoriment_FOR_Q_LEARNING.py çalıştırılarak Modül-1 çalıştırılabilir.
 
