@@ -1,6 +1,6 @@
 # Kullanım
 --Video--
-https://www.youtube.com/watch?v=btS_-h72dls
+https://youtu.be/btS_-h72dls?t=891
 
 DQN_test.py dosyasını çalıştırarak Modül-4 çalıştırılabilir. Model pathlerini vermeyi unutmayın!. Çalışma hızı ve elle ağaçlık oluşturma paremetrelerini kod içinden düzenleyebilirsiniz.
 
